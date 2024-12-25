@@ -3,5 +3,5 @@
 Hi There! 👋
 
 - Im a first year college student.
-- my course is BSIT.
-- and currently learning python.
+- My course is BSIT.
+- Im currently learning python.
